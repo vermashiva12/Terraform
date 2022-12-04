@@ -15,6 +15,7 @@
 
 -  AWS Account
 -  Deployed Cloud9 Enviornment (https://docs.aws.amazon.com/cloud9/latest/user-guide/create-environment-main.html)
+-  Use this CLI command on your Cloud9 Environment to Clone the repository " git clone https://github.com/vermashiva12/TerraformLab4.git "
 -  Source Code Cloned on Local Machine or can be Pulled directly on Cloud9 Enviornment. 
 -  A Key Pair stored Local which will be helpful to Deploy the Web Server. 
 
