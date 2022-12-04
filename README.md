@@ -30,4 +30,4 @@
 -  2 EC2 Instances
 
 ## Changes Before Deploy.
--  On Line Number 43 of Main.tf Please Refer you Key Pair. 
+-  On Line Number 43 of Main.tf Please Refer your Key Pair. 
